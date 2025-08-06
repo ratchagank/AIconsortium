@@ -1,0 +1,23 @@
+[
+  {
+    "name": "AI Tech Summit 2025",
+    "date": "2025-06-10",
+    "time": "10:00 AM - 4:00 PM",
+    "venue": "TCE Main Auditorium",
+    "description": "A summit to explore frontier AI innovations in education."
+  },
+  {
+    "name": "Machine Learning Bootcamp",
+    "date": "2025-07-01",
+    "time": "9:00 AM - 5:00 PM",
+    "venue": "Online",
+    "description": "Hands-on training for beginners in ML & Python."
+  },
+  {
+    "name": "AI for Healthcare",
+    "date": "2025-08-15",
+    "time": "11:00 AM - 2:00 PM",
+    "venue": "TCE Seminar Hall",
+    "description": "Session on AI solutions for medical diagnosis."
+  }
+]
